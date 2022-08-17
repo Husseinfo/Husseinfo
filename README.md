@@ -13,7 +13,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinfo&show_icons=true&theme=aura_dark)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinfo&show_icons=true&theme=aura_dark&hide=css,html)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinfo&show_icons=true&theme=aura_dark&hide=css,html,javascript)
 
 ## Pinned repositories
 
