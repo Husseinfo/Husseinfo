@@ -19,7 +19,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husseinfo&repo=tracker&theme=aura_dark&show_owner=true)](https://github.com/husseinfo/tracker)
 
-## [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/3306b2ec-3b64-4b05-9980-2c5aef8829be)
+## [Google Cloud Skills Profile](https://www.cloudskillsboost.google/public_profiles/3306b2ec-3b64-4b05-9980-2c5aef8829be)
 
 <a href="https://www.cloudskillsboost.google/public_profiles/3306b2ec-3b64-4b05-9980-2c5aef8829be/badges/124558">
 <img src="https://cdn.qwiklabs.com/3cUZzotUhC3sWESWmiP9mofbB%2BcZrrX5NiKJEGZBS%2B4%3D" width="100" height="100"/></a>
