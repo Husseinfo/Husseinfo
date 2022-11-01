@@ -1,3 +1,4 @@
+[![Image of https://github.com/Husseinfo/views-counter](https://github.com/Husseinfo/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Husseinfo/views-counter)
 ```
 ║ ║╔═╝║  ║  ╔═║  
 ╔═║╔═╝║  ║  ║ ║  
