@@ -4,19 +4,7 @@
 [![GCP Badge](https://img.shields.io/badge/-Google%20Cloud-ddd?style=flat-square&logo=googlecloud&logoColor=red)](https://www.cloudskillsboost.google/public_profiles/3306b2ec-3b64-4b05-9980-2c5aef8829be)
 
 
-
-```
-║ ║╔═╝║  ║  ╔═║  
-╔═║╔═╝║  ║  ║ ║  
-╝ ╝══╝══╝══╝══╝  👋
-```
-
-- 🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust)
-- 👯 I’m looking to collaborate on [golang](https://github.com/golang/go/) projects
-- 📫 How to reach me: [linkedin.com/in/hussein-sr/](https://www.linkedin.com/in/hussein-sr/)
-- 🐚 Shell: [zsh](https://github.com/zsh-users/zsh) => [antigen](https://github.com/zsh-users/antigen) + [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) + [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-- ⚡ Fun fact: Excellent day not to use Windows
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=3000&pause=300&color=F79549&width=435&lines=Highly+skilled+software+engineer;Fullstack+Web+Development;Cloud+%26+DevOps;Machine+Learning;Android+Development;Computer+Networking)](https://git.io/typing-svg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinfo&show_icons=true&theme=aura_dark)
 
