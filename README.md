@@ -18,3 +18,6 @@
 
 <a href="https://www.cloudskillsboost.google/public_profiles/3306b2ec-3b64-4b05-9980-2c5aef8829be/badges/124558">
 <img src="https://cdn.qwiklabs.com/3cUZzotUhC3sWESWmiP9mofbB%2BcZrrX5NiKJEGZBS%2B4%3D" width="100" height="100"/></a>
+
+
+![GitHub grid](https://raw.githubusercontent.com/husseinfo/husseinfo/output/github-contribution-grid-snake-dark.svg)
